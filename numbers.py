@@ -59,4 +59,27 @@ print(is_raining)
  # Is 2.5 a float? Yes!
  # Is 10.75 a float? Yes!
  # Is 5 a float? No, it is an integer. 
- 
+
+
+# 4. Complex(complex) - Special Mathematics Numbers
+# "Now we have somehting special!
+# Sometimes scientists and mathematicians use special
+# numbers that have two parts. 
+# Python calls these complex numbers. 
+# We use the letter j for the imaginary part."
+# Python example:
+
+number = 10 + 3j
+print(number)
+
+# Output:
+
+(10+3j)
+
+# Explain:
+# 10 is the first part (real part). 
+# 3j is the second part (imaginary part). 
+# "Don't worry if this looks difficult. You don't "
+# need to understand all the mathematics today. Just remember "
+# "that Python uses j for complex numbers." 
+
