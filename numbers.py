@@ -83,3 +83,20 @@ print(number)
 # need to understand all the mathematics today. Just remember "
 # "that Python uses j for complex numbers." 
 
+
+# Question 1:
+# You have 15 apples. WHich data type?
+# int ✅
+# float
+# bool
+# Question 2:
+# Your chocolate costs $3.50. Which data type?
+# bool
+# float ✅
+# int
+# Question 3:
+# Is a dog an animal? Which data type represents YES?
+# float
+# complex
+# bool  ✅
+
