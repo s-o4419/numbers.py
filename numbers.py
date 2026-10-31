@@ -39,3 +39,24 @@ is_raining = False
 
 print(is_sunny)
 print(is_raining)
+
+ # 3. Float (float) - Numbers With Decimal Points
+ # "Imagine you go to a shop to buy chocolate. 
+ # One chocolate costs $2.50. 
+ # Can we write the price as 2.50? Yes!
+ # What if your height is 1.5 meters?
+ # These numbers have decimal points. Python calls them floats."
+ # Python example:
+ chocolate_price = 2.50
+ my_height = 1.5
+ my_weight = 30.5
+
+ print(chocolate_price)
+ print(my_height)
+ print(my_weight)
+
+ # Challenge:
+ # Is 2.5 a float? Yes!
+ # Is 10.75 a float? Yes!
+ # Is 5 a float? No, it is an integer. 
+ 
