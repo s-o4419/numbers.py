@@ -21,3 +21,21 @@ toys = 3
 
 print(apples)
 print(students)
+
+
+# 2. Boolean(bool) - True or False
+# "Imagine I aks you: Is the sun hot?
+# You answer YES!
+# Now imagine I ask: Is a fish a bird?
+# You answer NO!
+# Computors also need to answer YES or NO questions.
+# In Python:
+# YES is True. 
+# NO is False."
+
+# python example:
+is_sunny = True
+is_raining = False
+
+print(is_sunny)
+print(is_raining)
